@@ -1,0 +1,3 @@
+[submodule "testsubmodule3"]
+	path = testsubmodule3
+	url = https://github.com/timothee-alby/big-repo
