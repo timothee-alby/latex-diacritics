@@ -1,3 +1,6 @@
 [submodule "testsubmodule4"]
 	path = testsubmodule4
 	url = https://github.com/timothee-alby/big-repo
+[submodule "testsubmodule5"]
+	path = testsubmodule5
+	url = https://github.com/timothee-alby/big-repo
